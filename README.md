@@ -12,12 +12,3 @@
 <br><br><br><br>
 
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibek-Bhandari999&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="realBibek" />  
-</p>      
-  
-<p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Bibek-Bhandari999&theme=juicyfresh&no-bg=true" alt="Bibek-Bhandari999" />  
-
-</p>
-
